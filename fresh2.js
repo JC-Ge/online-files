@@ -1,6 +1,6 @@
 "{"data": [{
 	"orgCode": "1234",
-	"topbg": "http://chain.ufile-inspur.ucloud.com.cn/fresh/indexTop.png',
+	"topbg": "http://chain.ufile-inspur.ucloud.com.cn/fresh/indexTop.png",
 	"orgLogo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxorg.jpg",
 	"orgName": "蟹状元大闸蟹股份有限公司",
 	"module": [{
