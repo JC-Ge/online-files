@@ -81,6 +81,11 @@ function getSingleOrgData(orgCode){
 			return allOrgData[i];
 	}
 }
+
+
+console.log(Vue);
+// console.log(getSingleOrgData('1234'));
+
 module.exports = {
 	allOrgData: allOrgData,
 	getSingleOrgData:getSingleOrgData
