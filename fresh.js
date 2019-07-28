@@ -82,7 +82,7 @@ function getSingleOrgData(orgCode){
 	}
 }
 
-console.log(getSingleOrgData('1234'));
+// console.log(getSingleOrgData('1234'));
 
 //module.exports = {
 	// allOrgData: allOrgData,
