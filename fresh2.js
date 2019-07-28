@@ -1,4 +1,4 @@
-"{"data": [{
+{"data": [{
 	"orgCode": "1234",
 	"topbg": "http://chain.ufile-inspur.ucloud.com.cn/fresh/indexTop.png",
 	"orgLogo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxorg.jpg",
@@ -74,4 +74,4 @@
 		},
 	]
 }, ]
-}"
+}
