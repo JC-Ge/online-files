@@ -84,7 +84,7 @@ function getSingleOrgData(orgCode){
 
 
 console.log(Vue);
-// console.log(getSingleOrgData('1234'));
+console.log(getSingleOrgData('1234'));
 
 module.exports = {
 	allOrgData: allOrgData,
