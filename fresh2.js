@@ -77,7 +77,7 @@
 	"orgCode": "5678",
 	"topbg": "http://chain.ufile-inspur.ucloud.com.cn/fresh/indexTop.png",
 	"orgLogo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxorg.jpg",
-	"orgName": "蟹状元大闸蟹股份有限公司",
+	"orgName": "葫芦娃股份有限公司",
 	"module": [{
 			"icon": "http://chain.ufile-inspur.ucloud.com.cn/fresh/qyzz.png",
 			"titlename": "企业资质",
@@ -131,19 +131,55 @@
 			"icon": "http://chain.ufile-inspur.ucloud.com.cn/fresh/hzqy.png",
 			"titlename": "合作企业",
 			"item": [{
-					"name": "苏州泉屋百货有限公司",
+					"name": "葫芦娃有限公司",
 					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxszqw.png",
-					"desc": "苏州泉屋百货有限公司于2008年05月21日在苏州高新区（虎丘区）市场监督管理局登记成立。法定代表人四条晴也，公司经营范围包括批发、零售：预包装食品兼散装食品，乳制品（含婴幼儿配方乳粉）等。",
+					"desc": "葫芦娃有限公司",
 				},
 				{
-					"name": "河南新康桥物业服务有限公司",
+					"name": "哪吒服务有限公司",
 					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxhnkq.png",
-					"desc": "河南新康桥物业服务有限公司于2007年8月31日在郑州市工商行政管理局二七分局登记成立。法定代表人周巧红，公司经营范围包括物业经营与管理（凭资质证经营）；酒店管理等。",
+					"desc": "葫芦娃有限公司",
 				},
 				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "浙江绿城物业园区生活服务有限公司于2009年04月22日在浙江省工商行政管理局登记成立。法定代表人陈浩，公司经营范围包括预包装食品、乳制品（不含婴幼儿配方乳粉）等。",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "葫芦娃有限公司",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "葫芦娃有限公司",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "葫芦娃有限公司",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "浙江绿城物业园区生活服务有限公司于2009年04月22日在浙江省工商行政管理局登记成立。法定代表人陈浩，公司经营范围包括预包装食品、乳制品（不含婴幼儿配方乳粉）等。",
+				},				{
 					"name": "浙江绿城物业园区生活服务有限公司",
 					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
 					"desc": "浙江绿城物业园区生活服务有限公司于2009年04月22日在浙江省工商行政管理局登记成立。法定代表人陈浩，公司经营范围包括预包装食品、乳制品（不含婴幼儿配方乳粉）等。",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "葫芦娃有限公司",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "葫芦娃有限公司",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "葫芦娃有限公司",
+				},				{
+					"name": "哪吒服务有限公司",
+					"logo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxzjlc.png",
+					"desc": "葫芦娃有限公司",
 				},
 			]
 		},
