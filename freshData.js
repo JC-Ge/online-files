@@ -75,7 +75,7 @@
  			},
  		]
  	}, {
- 		"orgCode": "5678",
+ 		"orgCode": "567899",
  		"topbg": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxqyzz1.png",
  		"orgLogo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxqyzz2.png",
  		"orgName": "葫芦娃股份有限公司",
