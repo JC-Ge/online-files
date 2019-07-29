@@ -5,7 +5,7 @@
  		"orgLogo": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxorg.jpg",
  		"orgName": "蟹状元大闸蟹股份有限公司",
  		"module": [{
- 				"icon": "http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxqyzz3.png",
+ 				"icon": "http://chain.ufile-inspur.ucloud.com.cn/fresh/qyzz.png",
  				"titlename": "企业资质",
  				"item": [
  					"http://chain.ufile-inspur.ucloud.com.cn/fresh/dzxqyzz1.png",
